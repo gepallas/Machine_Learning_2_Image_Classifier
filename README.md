@@ -37,3 +37,11 @@ However, since the trained model checkpoint is saved, it can be loaded and furth
 <p align="center">
   <img src= "https://github.com/gepallas/Machine_Learning_2_Image_Classifier/blob/master/rose_image_prediction.png?raw=true" />
 </p>
+
+<p align="center">
+  <img src= "https://github.com/gepallas/Machine_Learning_2_Image_Classifier/blob/master/magnolia_image_prediction.png?raw=true" />
+</p>
+
+<p align="center">
+  <img src= "https://github.com/gepallas/Machine_Learning_2_Image_Classifier/blob/master/dematis_image_prediction.png?raw=true" />
+</p>
