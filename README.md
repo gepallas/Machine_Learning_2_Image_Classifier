@@ -7,6 +7,7 @@ In this project an image classifier is trained using deep learning to recognize 
 The projet is split in two parts:
 - Development of the ***Image Classifier*** to recognize flower species: *Image Classifier Project.ipynb* file
 - ***Command Line Application*** development that others can use: *train.py* and *predict.py* files
+<br/>
 
 A ***pre-trained network*** from torchvision.models has been used to get the image features (*model transfer*). 
 Specifically, the steps that have been taken to use the pre-trained network are:
@@ -14,8 +15,9 @@ Specifically, the steps that have been taken to use the pre-trained network are:
 - Define a new, untrained feed-forward network as a classifier, using ReLU activations and dropout
 - Train the classifier layers using backpropagation using the pre-trained network to get the features
 - Track the loss and accuracy on the validation set to determine the best hyperparameters
+<br/>
 
-The project steps can be seen in detail in the jupyter notebook file:
+The **project steps** are organized as follows (they can be seen in detail in the jupyter notebook file):
 - Data load and pre-processing
 - Building and training the classifier
 - Testing the classifier
