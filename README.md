@@ -21,6 +21,7 @@ The project steps can be seen in detail in the jupyter notebook file:
 - Testing the classifier
 - Save/Load a checkpoint for the trained classifier
 - Inference for classification (image pre-processing, class prediction)
+- Sanity test (show image and plot the probabilities for the top 5 classes)
 
 ## Requirements
 - Python
@@ -31,6 +32,8 @@ The project steps can be seen in detail in the jupyter notebook file:
 The model achieves about 75% prediction accuracy on the testset.
 However, since the trained model checkpoint is saved, it can be loaded and further trained if one wants to achieve higher accuracy.
 
+**Image prediction and plotting of the probabilites for the top 5 flower classes:**
 
-
-
+<p align="center">
+  <img src= "https://github.com/gepallas/Machine_Learning_2_Image_Classifier/blob/master/rose_image_prediction.png?raw=true" />
+</p>
