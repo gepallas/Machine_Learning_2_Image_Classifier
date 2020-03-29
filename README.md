@@ -24,6 +24,7 @@ The **project steps** are organized as follows (they can be seen in detail in th
 - Save/Load a checkpoint for the trained classifier
 - Inference for classification (image pre-processing, class prediction)
 - Sanity test (show image and plot the probabilities for the top 5 classes)
+- Option to use GPU (Cuda) for the training
 
 ## Requirements
 - Python
