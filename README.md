@@ -4,7 +4,7 @@ This project has been completed as part of the [Udacity's Machine Learning Nanod
 ## Overview
 In this project an image classifier is trained using deep learning to recognize different species of flowers.
 
-The projet is split in two parts:
+The project is split in two parts:
 - Development of the ***Image Classifier*** to recognize flower species: *Image Classifier Project.ipynb* file
 - ***Command Line Application*** development that others can use: *train.py* and *predict.py* files
 <br/>
